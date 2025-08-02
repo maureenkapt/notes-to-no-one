@@ -1,0 +1,44 @@
+body {
+    background: #f4f1e9;
+    font-family: 'Georgia',serif;
+    color: #3e3b32;
+    margin: 0;
+    padding: 0;
+
+}
+.container {
+    max-width: 700px;
+    margin: 60px auto;
+    padding: 40px;
+    background: #fffdf7;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    border: 1px solid #ddd0b4;
+}
+
+h1{
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.subtext {
+    text-align: center;
+    font-style: italic;
+    color: #827c6c;
+    margin-bottom: 40px;
+}
+
+.entry {
+    border-top: 1px solid #e0d6b9;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.date {
+    font-size: 0.9em;
+    color: #9b927e;
+    margin-bottom: 10px;
+}
+
+.note {
+    line-height: 1.7;
+}
